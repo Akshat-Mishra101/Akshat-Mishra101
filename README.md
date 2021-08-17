@@ -1,4 +1,4 @@
-#Hi, i'm Akshat and i'm a computer science graduate
+# Hi, i'm Akshat and i'm a computer science graduate
 
 <!--
 **Akshat-Mishra101/Akshat-Mishra101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
