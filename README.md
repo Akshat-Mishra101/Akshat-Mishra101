@@ -3,7 +3,14 @@
 
 
 
-I'm a self taught full-stack, and desktop app developer.
+I'm a self taught full-stack, and desktop app developer with several years of experience in designing and building desktop apps. 
+I design my desktop apps mostly in Java and python, but i can quickly switch languages depending upon the complexity of the task.
+
+
+
+
+
+
 
 
 i love automating the mundane tasks, and love producing automation tools for WebScaping. I am also a fullstack developer, with experience in backend frameworks like spring-boot, Django and Flask.
