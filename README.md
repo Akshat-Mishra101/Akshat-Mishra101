@@ -1,4 +1,9 @@
-# Hi, i'm Akshat and i'm a self taught full-stack, and desktop app developer.
+# Hi, i'm Akshat 
+
+
+
+
+I'm a self taught full-stack, and desktop app developer.
 
 
 i love automating the mundane tasks, and love producing automation tools for WebScaping. I am also a fullstack developer, with experience in backend frameworks like spring-boot, Django and Flask.
