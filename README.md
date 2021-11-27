@@ -1,4 +1,4 @@
-# Hi, i'm Akshat 
+# Hi, I'm Akshat 
 
 
 
