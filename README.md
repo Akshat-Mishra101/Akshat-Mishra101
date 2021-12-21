@@ -3,8 +3,10 @@
 
 
 
-I'm a self taught full-stack Web and desktop app developer with several years of experience in designing and building desktop apps, Web Apps And Automation Bots.
-My Stack revolves around three langauges- JavaScript, Java And Python.
+I'm a self taught full-stack Web and desktop app developer with several years of experience in designing and building desktop apps, Web Apps And Bots for automating everything.
+I code and develop on multiple languages and platforms, which mainly revolve around- JavaScript, Python, Java And Solidity.
+
+
 
 ## This Repository Features A Small Portion Of Those Projects
 
