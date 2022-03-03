@@ -3,12 +3,12 @@
 
 
 
-I'm a self taught full-stack Web and desktop app developer with several years of experience in designing and building desktop apps, Web Apps And Bots for automating everything.
+I'm a full-stack Web, mobile and desktop app developer with experience in designing and building desktop apps, Web Apps And Bots for automating everything.
 I code and develop on multiple languages and platforms, which mainly revolve around- JavaScript, Python, Java And Solidity.
 
 
 
-## This Repository Features A Small Portion Of Those Projects
+## This Repository Features A Small Portion Of My Projects
 
 
 
