@@ -8,7 +8,7 @@ I code and develop on multiple languages and platforms, which mainly revolve aro
 
 
 
-## This Repository Features A Small Portion Of My Projects
+
 
 
 
