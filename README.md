@@ -6,8 +6,6 @@
 <img src="https://github.com/Akshat-Mishra101/Akshat-Mishra101/blob/main/Images/grid-snake.svg" alt="commit grid snake">
 </div>
 
----
-
  <h3>About Me</h3>
   <ul>
     <li>🔭 I’m currently working on open-source projects and my own website</li>
