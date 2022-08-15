@@ -5,9 +5,12 @@
 <div id="pacman" align="center">
 <img src="https://github.com/Akshat-Mishra101/Akshat-Mishra101/blob/main/Images/grid-snake.svg" alt="commit grid snake">
 </div>
+
 <div id="main" align="center">
-  <h3>About Me</h3>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+ <h3>About Me</h3>
   <ul>
     <li>🔭 I’m currently working on open-source projects and my own website</li>
     <li>🌱 I’m currently learning docker, kubernetes and typescript</li>
@@ -15,7 +18,6 @@
     <li>💬 Ask me about Java, JavaScript, Python, DevOps and Web Development</li>
     <li>📫 Feel free in reaching out to me on my linkedin, or email</li>
   </ul>
-</div>
 
 <div align="center" id="badges">
   <img src="https://komarev.com/ghpvc/?username=Akshat-Mishra101&style=flat-square&color=blue" alt=""/>
