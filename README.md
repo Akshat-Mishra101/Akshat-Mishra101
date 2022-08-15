@@ -45,7 +45,9 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akshat-Mishra101&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akshat-Mishra101&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 <div align="center" id="badges">
   <img src="https://komarev.com/ghpvc/?username=Akshat-Mishra101&style=flat-square&color=blue" alt=""/>
   <a href="https://www.linkedin.com/in/0xakshat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
