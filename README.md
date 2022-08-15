@@ -1,4 +1,7 @@
-# Hey there, I'm Akshat 👋 
+<h1>
+  Hey there, I'm Akshat
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <div id="pacman" align="center">
 <img src="https://github.com/Akshat-Mishra101/Akshat-Mishra101/blob/main/Images/grid-snake.svg" alt="commit grid snake">
 </div>
