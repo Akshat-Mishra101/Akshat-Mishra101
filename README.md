@@ -1,38 +1,9 @@
-# Hi, I'm Akshat 
+# Hey there, I'm Akshat 👋 
 
-
-
-
-I'm a full-stack Web, mobile and desktop app developer with experience in designing and building desktop apps, Web Apps And Bots for automating everything.
-I code and develop on multiple languages and platforms, which mainly revolve around- JavaScript, Python, Java And Solidity.
-
-
-
-
-
-
-
-
-
-<!--
-**Akshat-Mishra101/Akshat-Mishra101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-
-
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on some open-source projects and my personal website
+- 🌱 I’m currently learning docker, kubernetes and linux...
+- 👯 I’m looking to collaborate on backend, frontend and web3 related projects 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Java, JavaScript, Python, DevOps and Web Development
+- 📫 Feel free in reaching out to me on my linkedin, or email
+
