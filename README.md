@@ -16,7 +16,8 @@
 
 
 ---
-  <h2>My Tech Stack</h2>
+
+### My Tech Stack :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -40,6 +41,7 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Akshat-Mishra101&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 <div align="center" id="badges">
   <img src="https://komarev.com/ghpvc/?username=Akshat-Mishra101&style=flat-square&color=blue" alt=""/>
