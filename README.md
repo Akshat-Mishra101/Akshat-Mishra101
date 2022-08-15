@@ -18,7 +18,9 @@
     <li>💬 Ask me about Java, JavaScript, Python, DevOps and Web Development</li>
     <li>📫 Feel free in reaching out to me on my linkedin, or email</li>
   </ul>
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react">
+</div>
 <div align="center" id="badges">
   <img src="https://komarev.com/ghpvc/?username=Akshat-Mishra101&style=flat-square&color=blue" alt=""/>
   <a href="https://www.linkedin.com/in/0xakshat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
