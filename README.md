@@ -6,11 +6,6 @@
 <img src="https://github.com/Akshat-Mishra101/Akshat-Mishra101/blob/main/Images/grid-snake.svg" alt="commit grid snake">
 </div>
 
-<div id="main" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-
 ---
 
  <h3>About Me</h3>
